@@ -1,2 +1,8 @@
-# kara-studios
-Rails App to people to book karaoke rooms
+# README
+
+
+This app was build by using the following command:
+
+```bash
+rails new . --javascript bun --database postgresql --css sass
+```
